@@ -1,3 +1,4 @@
+<!-- php code -->
 <?php
 function wordCount($input) {
     // Use the str_word_count function to count the number of words in the string
